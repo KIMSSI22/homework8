@@ -28,6 +28,7 @@ int main()
 	char command;
 	int key;
 	listNode* headnode=NULL;  //헤드 초기화
+	printf("김민서 2022040010");
 
 	do{
 		printf("----------------------------------------------------------------\n");
